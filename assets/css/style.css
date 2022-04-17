@@ -15612,22 +15612,6 @@ input[type="button"].btn-block {
   border: 1px solid #e7eaed;
   border-radius: 6px;
 }
-.cardgrad2 {
-  position: relative;
-  display: flex;
-  flex-direction: column;
-  min-width: 0;
-  word-wrap: break-word;
-  background: #FF8008;
-  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #FFC837, #FF8008);
-  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #FFC837, #FF8008);
-  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-  background-clip: border-box;
-  border: 1px solid #e7eaed;
-  border-radius: 6px;
-}
 
 .grad1 {
   background: rgb(69,104,220);
