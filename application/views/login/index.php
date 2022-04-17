@@ -7,7 +7,7 @@
   <!-- <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport" /> -->
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta content="" name="description" />
-  <meta content="I.A.HARAHAP" name="author" />
+  <meta content="IT MS ACEH" name="author" />
 
   <!-- link rel="stylesheet" href="assets/css/animate.css"> -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&display=swap" rel="stylesheet">
